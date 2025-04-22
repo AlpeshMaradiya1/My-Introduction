@@ -13,9 +13,9 @@ Currently, I’m working on the **“Climate Resilient Cities”** research proj
 
 ## 🧠 Skills
 
-- **Technical:** Policy Analysis, Research, MS Office, Data Analysis (in progress)
+- **Technical:** Policy Analysis, Research, MS Office, Data Analysis
 - **Soft Skills:** Content Writing, Communication, Event & Project Management, Documentation
-- **Languages:** English, Hindi, Gujarati, Marathi (proficient)
+- **Languages:** English, Hindi, Gujarati
 
 
 ## 🧪 Experience Snapshot
