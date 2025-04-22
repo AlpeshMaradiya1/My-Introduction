@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlpeshMaradiya1
-- 👀 I’m interested in analysing data 
+- 👀 I’m interested in data and policy analysis
 - 🌱 I’m currently learning data science application
-- 💞️ I’m looking to collaborate on datascience based applications
+- 💞️ I’m looking to collaborate on ML based applications
 - 📫 How to reach me : alpesh24_08.dshcs@iiitd.ac.in
 
 <!---
