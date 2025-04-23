@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alpesh S. Maradiya
+# 👋 Hi, I’m Alpesh Maradiya
 
 🎓 Data Science & Political Science postgraduate |  
 💼 Policy Analyst with 1.5+ years of experience in international, government, and non-governmental organizations
@@ -6,10 +6,7 @@
 
 ## 🔎 About Me
 
-I’m passionate about using **data-driven insights for impactful policy change**. With a strong academic foundation and practical experience in research, governance, and policy evaluation, I’m especially focused on **climate resilience, social impact, and digital governance**.
-
-Currently, I’m working on the **“Climate Resilient Cities”** research project at Rambhau Mhalgi Prabodhini, engaging with stakeholders like UN Habitat and NIUA to drive sustainable urban development.
-
+I’m passionate about using **data-driven insights for impactful policy change**. With a strong academic foundation and practical experience in research, governance, and policy evaluation.
 
 ## 🧠 Skills
 
@@ -38,10 +35,9 @@ Currently, I’m working on the **“Climate Resilient Cities”** research proj
 
 ## 🏆 Achievements
 
-- Offered **Lectureship at B.M. University** & **Trainee at QCI, GoI**
 - Cleared **UGC-NET**, **TISSNET**, and **UPSC Prelims** (2023)
 - **Fellowships:** Anant, Terra.do, Prabodhini (2024)
-- Selected for **Harvard University Summit (2024)** & as **UN College Ambassador**
+- Selected for **Harvard University Summit (2024)** 
 - “**Emerging Youth Leader**” – Russian Embassy (2019)
 - Vice President – Toastmasters Surat (2023)
 
@@ -63,10 +59,7 @@ Currently, I’m working on the **“Climate Resilient Cities”** research proj
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** alpeshmaradiya1@gmail.com  
-- 📞 **Phone:** +91 7573073272  
+- 📧 **Email:** alpeshmaradiya3@gmail.com  
 - 🔗 **LinkedIn:** [@AlpeshMaradiya](https://www.linkedin.com/in/alpeshmaradiya)  
-- 🧑‍💻 **GitHub:** [@AlpeshMaradiya1](https://github.com/AlpeshMaradiya1)
-
 
 > "Turning research into action. Using data to drive change." 🌱
