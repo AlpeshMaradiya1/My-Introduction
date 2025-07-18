@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alpesh Maradiya
+# 👋 Hi, I’m Alpesh Maradiya (👉 For the detailed portfolio, please visit: https://sites.google.com/view/alpesh/home)
 
 🎓 Data Science & Political Science postgraduate |  
 💼 Policy Analyst with 1.5+ years of experience in international, government, and non-governmental organizations
@@ -59,7 +59,7 @@ I’m passionate about using **data-driven insights for impactful policy change*
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** alpeshmaradiya3@gmail.com  
+- 📧 **Email:** alpesh.iiitd@gmail.com  
 - 🔗 **LinkedIn:** [@AlpeshMaradiya](https://www.linkedin.com/in/alpeshmaradiya)  
 
 > "Turning research into action. Using data to drive change." 🌱
